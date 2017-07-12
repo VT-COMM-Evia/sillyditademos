@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map title="icecream">
+    <topicmeta>
+        <author>Michael Lopez</author>
+        <copyright>
+            <copyryear year="2017"/>
+            <copyrholder>Ice Makers</copyrholder>
+        </copyright>
+    </topicmeta>
+    <topicref href="welcome.dita" navtitle="Welcome"/>
+    <topicref href="clean.dita" navtitle="Clean"/>
+    <topicref href="parts.dita" navtitle="Parts" />
+</map>
